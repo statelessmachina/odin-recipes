@@ -3,6 +3,16 @@ body {
     background-color: #6ea4cd;
 }
 
+.navigation-menu-list {
+    list-style-type: none;
+}
+
+.nav-list-item {
+    display: inline-block;
+    background-color: antiquewhite;
+    padding: 5px 22px;
+}
+
 .page-title,
 .section-title {
     font-weight: 800;
